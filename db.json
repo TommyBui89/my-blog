@@ -1,0 +1,63 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "The Benefits of Learning JavaScript",
+      "date": "10/25/2024",
+      "content": "JavaScript is one of the most popular programming languages in the world. It's essential for web development and allows you to create interactive websites. Learning JavaScript opens doors to various career opportunities and helps you understand other programming languages better.",
+      "tags": [
+        "JavaScript",
+        "Programming",
+        "Web Development"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Exploring the World of Artificial Intelligence",
+      "date": "10/27/2024",
+      "content": "Artificial Intelligence (AI) is transforming various industries, from healthcare to finance. In this blog post, we'll discuss the basics of AI, its applications, and its impact on society. AI is an exciting field with potential for both benefits and challenges.",
+      "tags": [
+        "AI",
+        "Technology",
+        "Future",
+        "hello"
+      ],
+      "codeSections": []
+    },
+    {
+      "id": "4",
+      "title": "Top 10 Travel Destinations for 2024",
+      "date": "10/28/2024",
+      "content": "If you're looking for travel inspiration, here are the top 10 destinations to visit in 2024. From the beaches of Bali to the historical sites of Rome, each location offers unique experiences. Whether you love adventure or relaxation, there's something for everyone.",
+      "tags": [
+        "Travel",
+        "Destinations",
+        "2024"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Understanding Mental Health",
+      "date": "10/29/2024",
+      "content": "Mental health is just as important as physical health. This blog post discusses the importance of mental well-being, common mental health issues, and tips on how to maintain good mental health. Remember to take care of yourself and seek help if needed.",
+      "tags": [
+        "Mental Health",
+        "Wellbeing",
+        "Self Care"
+      ]
+    },
+    {
+      "id": "143e",
+      "title": "Tommy",
+      "content": "Hello World",
+      "tags": [
+        "Hello",
+        "World"
+      ],
+      "codeSections": [
+        "<p>Helo World</p>\n<h1> hefefe <h1/>"
+      ],
+      "date": "06/11/2024"
+    }
+  ]
+}
